@@ -9,3 +9,5 @@ github_username:  kedud
 sass:
   sass_dir: _sass
 include: ['_pages']
+
+theme: jekyll-theme-cayman
