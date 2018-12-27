@@ -1,0 +1,11 @@
+title: 2d Electronics
+email: ldenefle@gmail.com
+description: >
+  A tool to make the world a better place
+baseurl: ""
+url: "http://localhost:4000"
+github_username:  kedud
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
